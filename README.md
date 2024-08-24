@@ -60,8 +60,8 @@ This project is a simple Django REST API that provides user registration and log
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git git@github.com:Robben1972/Auth_JWT.git
+cd repo-name
 ```
 
 ### 2. Create a Virtual Environment
